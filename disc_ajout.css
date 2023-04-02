@@ -1,0 +1,104 @@
+.center {
+    text-align: center;
+}
+
+.lb {
+    color: rgba(0, 255, 255, 0.945);
+}
+
+#myform {
+
+    margin-right: auto;
+    width: 500px;
+}
+
+fieldset {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ip_ph {
+    width: 200px;
+    margin-right: 34px;
+    margin-top: 5px;
+}
+
+.ip {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ip_sb {
+    margin: 10px;
+}
+
+#tech {
+    margin-right: 249px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#req {
+    margin-bottom: 20px;
+}
+
+.col {
+    column-count: 2;
+    margin-bottom: 40%;
+}
+
+.button {
+    background-color: cornsilk;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 80px;
+    text-decoration: none;
+    text-align: center;
+    font-size: small;
+}
+
+.beat {
+    background-image: url(/img/Screenshot_20230320_145916_Chrome.jpg);
+    background-size: 21%;
+    color: darkcyan;
+}
+
+.button2 {
+    background-color: darkcyan;
+    padding: 5px 10px;
+    border-radius: 6px;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.back {
+    background-color: black;
+    background-image: url(img/cle_de_sol.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    back
+}
+
+.col2 {
+    overflow: hidden;
+    margin-left: 10%;
+}
+
+.margin {
+    margin: 20px;
+}
+
+.cadre {
+    background-color: cornsilk;
+    border-radius: 40%;
+    text-align: center;
+    font-size: small;
+}
+
+.cadre2 {
+    text-align: center;
+}
